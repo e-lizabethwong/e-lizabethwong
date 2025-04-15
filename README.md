@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm 'e-lizabeth' (like an e-mail haha!)
+
+I'm currently studying compsci (joint major in data science) @ Concordia University (Montreal) and HackConcordia's VP of Internal Affairs!
 
 <!--
 **e-lizabethwong/e-lizabethwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
